@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="screen.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="400.51882"
+     inkscape:cy="204.63901"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1167"
+     inkscape:window-height="933"
+     inkscape:window-x="-11"
+     inkscape:window-y="135"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3755" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:0.75;fill:#64005d;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 0,652.36218 170,-100 530,0 0,400 -130,100.00002 -570,0 z"
+       id="rect2985"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2984"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Great Vibes;font-style:normal;font-weight:normal;font-size:72px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Great Vibes;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion2986"><rect
+           id="rect2988"
+           width="454.56863"
+           height="154.55334"
+           x="134.3503"
+           y="613.95599"
+           style="-inkscape-font-specification:Great Vibes;font-family:Great Vibes;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:72px" /></flowRegion><flowPara
+         id="flowPara2990"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="350"
+       y="722.36218"
+       id="text2992"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2994"
+         x="350"
+         y="722.36218"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;fill:#ffffff;font-family:Great Vibes;-inkscape-font-specification:Great Vibes">Serendipity</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows"
+       x="290"
+       y="812.36218"
+       id="text3764"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3766"
+         x="290"
+         y="812.36218"
+         style="font-size:56px">With</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="170"
+       y="952.36218"
+       id="text3768"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3770"
+         x="170"
+         y="952.36218"
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:ProFontWindows;-inkscape-font-specification:ProFontWindows">Cubes</tspan></text>
+  </g>
+</svg>
